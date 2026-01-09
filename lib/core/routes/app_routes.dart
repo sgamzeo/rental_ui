@@ -1,5 +1,5 @@
 abstract class AppRoutes {
-  static const appSelection = '/';
+  static const onboarding = '/onboarding';
   static const signIn = '/sign-in';
   static const signUp = '/sign-up';
 
